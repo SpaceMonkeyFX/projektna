@@ -1,0 +1,30 @@
+Najstarejse slovensko mesto?\n	1 - Maribor\n	2 - Ljubljana\n	3 - Ptuj\n	4 - Velenje\n
+V katerem mestu se nahaja najstarejsa vinska trta?\n	1 - Murska Sobota\n	2 - Ptuj\n	3 - Ormoz\n	4 - Maribor\n
+Glavno mesto Slovenije?\n	1 - Ljubljana\n	2 - Maribor\n	3 - Koper\n	4 - Novo mesto\n
+Kateremu mestu so v Jugoslaviji pravili Titovo ... ?\n	1 - Ljubljana\n	2 - Kranj\n	3 - Koper\n	4 - Velenje\n
+Katero mesto je mesto roz?\n	1 - Izola\n	2 - Koper\n	3 - Portoroz\n	4 - Piran\n
+V katerem mestu se nahaja tovarna avtomobilov Revoz?\n	1 - Novo mesto\n	2 - Koper\n	3 - Ptuj\n	4 - Velenje\n	
+Kje se nahaja edini slovenski otok?\n	1 - Murska Sobota\n	2 - Ptuj\n	3 - Izola\n	4 - Bled\n
+Katero mesto je najblizje reki Muri?\n	1 - Murska Sobota\n	2 - Ptuj\n	3 - Kranj\n	4 - Celje\n
+Kako se imenuje grad na gorickem?\n	1 - Celjski grad\n	2 - Grad\n	3 - Ptujski grad\n	4 - Goricki grad\n
+Stolp Vinarium se nahaja v katerem mestu?\n	1 - Murska Sobota\n	2 - Lendava\n	3 - Ljutomer\n	4 - Lenart\n
+Kdo je sestavil prvi mehanski racunalnik?\n	1 - Bill Gates\n	2 - Charles Babbage\n	3 - Blaise Pascal\n	4 - Steve Jobs\n
+Katerega leta je bil izumljen tranzistor?\n	1 - 1964\n	2 - 1951\n	3 - 1947\n	4 - 1972\n
+Kdo je izumitelj mikroprocesorjev?\n	1 - Ted Hoff\n	2 - Bill Gates\n	3 - Konrad Zuse\n	4 - Charles Babbage\n
+Ta izum je bil 1000 krat hitrejsi od mehanskih racunalnikov?\n	1 - Unix\n	2 - Z3\n	3 - Apple 1\n	4 - ENIAC\n
+Steve Jobs in Steve Wozniak sta ustanovitelja katerega podjetja?\n	1 - Microsoft\n	2 - IBM\n	3 - Apple\n	4 - Intel\n
+Kdo je ustanovitelj Microsofta?\n	1 - Steve Jobs\n	2 - Bill Gates\n	3 - Konrad Zuse\n	4 - Larry Page\n
+Katerega leta sta Larry Page in Sergey Brin ustanovila Google?\n	1 - 1996\n	2 - 1999\n	3 - 1991\n	4 - 2000\n
+Kdo je izumitelj Linux operacijskega sitema?\n	1 - Linus Torvalds\n	2 - Ted Hoff\n	3 - Steve Wozniak\n	4 - Bill Gates\n
+Kako se imenuje najbolj priljubljena Linux distribucija?\n	1 - CentOS\n	2 - Unix\n	3 - Fedora\n	4 - Ubuntu\n
+Kako se je imenovla prva racunalniska igra?\n	1 - Deluxe ski jumping 2\n	2 - Super Mario\n	3 - Pong\n	4 - Tetris\n
+Kaksen je splosen zapis kvadratne enacbe?\n	1 - y = kx + n\n	2 - ax^2 + bx + c = 0\n	3 - ax + bx = 0\n	4 - a^2 * b^2 = c^2\n
+Kje je bil rojen France Preseren?\n	1 - Vrba\n	2 - Kranj\n	3 - Ljubljana\n	4 - Domzale\n
+Katerega leta je bil rojen Rudolf Majster?\n	1 - 1883\n	2 - 1869\n	3 - 1891\n	4 - 1874\n
+Kdo je avtor prve slovenske knjige?\n	1 - Srecko Kosovel\n	2 - France Preseren\n	3 - Primoz Trubar\n	4 - Ivan Cankar\n
+Kdo je bil prvi papez slovanskega rodu?\n	1 - Benedikt XVI.\n	2 - Janez Pavel II.\n	3 - Pavel VI.\n	4 - Francisek"\n
+Katero podjetje je prvo izdelalo 64 bitni procesor?\n	1 - IBM\n	2 - Intel\n	3 - ARM\n	4 - AMD\n
+Larry Page in Sergey Brin sta ustanovila katero podjetje?\n	1 - Google\n	2 - Intel\n	3 - Amazon\n	4 - eBay\n
+Kasen je zapis pitagorovega izreka?\n	1 - c^2 = a^2 + b^2\n	2 - c = a^2 + b^2\n	3 - Odgovora 1 in 4\n	4 - c = sqrt(a^2 + b^2)\n
+Kateri nogometni klub je prvi zmagal FA pokal na novem satdionu Wembley?\n	1 - Chelsea\n	2 - Arsenal\n	3 - Manchester United\n	4 - Liverpool\n
+Kdo je naboljsi strelec vseh casov v Premier League?\n	1 - Wayne Rooney\n	2 - Alan Shearer\n	3 - Frabk Lampard\n	4 - Thierry Henry\n
